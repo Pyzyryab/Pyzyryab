@@ -38,8 +38,8 @@ backend server-side based on REST comms.
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyzyryab&show_icons=true&theme=radical&layout=compact&hide=css,html,D" alt="Pyzyryab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyzyryab&show_icons=true&theme=gradient&layout=compact&langs_count=10&hide=css,html,D" alt="Pyzyryab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pyzyryab&theme=radical&show_icons=true&count_private=true" alt="Pyzyryab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pyzyryab&theme=gradient&show_icons=true&count_private=true" alt="Pyzyryab" /></p>
 
 
