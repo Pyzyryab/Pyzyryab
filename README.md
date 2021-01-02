@@ -36,7 +36,7 @@ backend server-side based on REST comms.
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyzyryab&layout=compact&hide=css" alt="Pyzyryab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyzyryab&show_icons=true&layout=compact&hide=css&hide=html" alt="Pyzyryab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pyzyryab&show_icons=true&count_private=true" alt="Pyzyryab" /></p>
 
