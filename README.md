@@ -40,6 +40,6 @@ backend server-side based on REST comms.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyzyryab&show_icons=true&theme=radical&layout=compact&hide=css" alt="Pyzyryab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pyzyryab&show_icons=true&count_private=true" alt="Pyzyryab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pyzyryab&theme=radical&show_icons=true&count_private=true" alt="Pyzyryab" /></p>
 
 
