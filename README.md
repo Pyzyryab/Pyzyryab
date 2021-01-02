@@ -15,7 +15,7 @@ backend server-side based on REST comms.
 
 - 😄 Fun fact: I've been a professional musician for almost 10 years, and now I dedicate my **full time** to software development.
 
-- ⚡ 
+- ⚡ Cool icon: Hell yeah! This is just a cool bolt-icon closing this list!
 
 
 ### Languages and Tools:
