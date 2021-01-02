@@ -1,6 +1,8 @@
 <h1 align="center">Hi there!👋, I'm Alex Vergara</h1>
 <h3 align="center">A self-taught programmer, software engineer and cybersec enthusiastic</h3>
 
+<br></br>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/Pyzyryab?label=Pyzyryab&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Pyzyryab?logo=GitHub&style=for-the-badge)
 
@@ -36,7 +38,7 @@ backend server-side based on REST comms.
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyzyryab&show_icons=true&layout=compact&hide=css" alt="Pyzyryab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyzyryab&show_icons=true&theme=radical&layout=compact&hide=css" alt="Pyzyryab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pyzyryab&show_icons=true&count_private=true" alt="Pyzyryab" /></p>
 
