@@ -20,11 +20,12 @@ backend server-side based on REST comms.
 - ⚡ Cool icon: Hell yeah! This is just a cool bolt-icon closing this list!
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="22" height="22"/>
   
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="22" height="22"/> 
