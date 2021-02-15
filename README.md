@@ -2,22 +2,21 @@
 <h3 align="center">A self-taught programmer, software engineer and cybersec enthusiastic</h3>
 
 <br></br>
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/Pyzyryab?label=Pyzyryab&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Pyzyryab?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on **Flutter** integration with **Django Rest API** backends, in order to get a multi-platform one language front-end with a solid
-backend server-side based on REST comms.
+- 📫 If you are a professional IT recruiter or an employer, [here](https://pyzyryab.github.io/) you have my full resume with all necesary details.
 
-- 🌱 I’m currently learning `Rust`and `Dart` as languages; systems administration and newtorking as part of graduate-school higher studies and ethical hacking as passion.
+- 🔭 I’m currently working on **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
+backend server-side based on REST comms **for a personal project**.
 
-- 👯 I’m looking to collaborate on any awesome open-source idea that lead me to a personal and professional growing!
+- 🌱 I’m currently learning `Rust`, `C++` as languages; systems administration and newtorking as part of graduate-school higher studies and ethical hacking as complementary passion and training.
 
-- 📫 How to reach me: If you are a professional IT recruiter or an employer, [here](https://pyzyryab.github.io/) you have my full resume with all necesary details.
+- 👯 I’m looking to collaborate on any open-source idea that lead me to a personal and professional growing!
 
-- 😄 Fun fact: I've been a professional musician for almost 10 years, and now I dedicate my **full time** to software development.
+- 😄 Fun fact: I've been a professional musician for almost 10 years, and since early 2020 I dedicate my **full time** to software learning/development.
 
-- ⚡ Cool icon: Hell yeah! This is just a cool bolt-icon closing this list!
+- ⚡ Cool icon: Hell yeah! This is just a cool bolt-icon that I like closing this list!
 
 
 ## Languages and Tools:
