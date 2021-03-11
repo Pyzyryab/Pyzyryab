@@ -22,7 +22,8 @@ backend server-side based on REST comms **for a personal project**.
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width=39" height="39"/> 
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width=39" height="39"/>
+  <img src="https://www.vectorlogo.zone/logos/python/java-icon.svg" alt="python" width=39" height="39"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="39" height="39"/>
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="39" height="39"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/ width="39" height="39">
