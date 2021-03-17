@@ -8,7 +8,7 @@
 - 📫 If you are a professional IT recruiter or an employer, [here](https://pyzyryab.github.io/) you have my full resume with all necesary details.
 
 - 🔭 I’m currently working on **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
-backend server-side based on REST comms **for a personal project**.
+backend server-side based on REST comms **for a personal project**. You can find it here [LiveBar](https://livebar.app)
 
 - ⚡ I started coding on high school (Universidad de Sevilla) with `Java` and `C++` on 2012. I stopped in 2014 and in 2020 (on quarantine days) I dediced to back coding again, and completly refocus my professional world.
 
