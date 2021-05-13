@@ -10,14 +10,6 @@
 - 🔭 I’m currently working on **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
 backend server-side based on REST comms **for a personal project**. You can find it here [LiveBar](https://livebar.app)
 
-- ⚡ I started coding on high school (Universidad de Sevilla) with `Java` and `C++` on 2012. I stopped in 2014 and in 2020 (on quarantine days) I dediced to back coding again, and completly refocus my professional world.
-
-- 🌱 I’m currently learning `Dart` (a Java like language) and `Rust` as languages; systems administration and newtorking as part of graduate-school higher studies and ethical hacking an game development (Unreal Engine and Godot) as a passion.
-
-- 👯 I’m looking to collaborate on any open-source idea that lead me to a personal and professional growing!
-
-- 😄 Fun fact: I've been a professional musician for almost 10 years, and since early 2020 I dedicate my **full time** to software learning/development.
-
 
 ## Languages and Tools:
 
