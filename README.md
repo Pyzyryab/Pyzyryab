@@ -9,9 +9,8 @@
 - 🔭 I’m currently working on **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
 backend server-side based on REST comms **for a personal project**. You can find it here [LiveBar](https://livebar.app)
 
-
 - 🔭 Also, I’m currently working on **Pokémon Gallaecia**, a fangame of Pokémon entirely written in `Rust`, using `Godot`as game engine.
-  The fangame also has a **REST API** written in Java using `Spring Framework, and Hibernate` as backend, and `TypeScript's Angular 2 framework` as frontend design.    (Both repository ae currently private due to potencial vulnerability issues). If you're an employeer looking for Java and Spring skills, please, contact me on e-mail to allow you watch the repository.
+  The fangame also has a **REST API** written in `Java` using `Spring Framework` and `Hibernate JPA` as backend, and an `Angular 2 app` as frontend. Both repository are currently private due to potencial vulnerability issues. If you're an employeer looking for Java and Spring skills, please, contact me on e-mail.
   You can find the source code here [Pokémon Gallaecia game source code on GitHub](https://github.com/Pyzyryab/PokemonGallaecia)
 
 
