@@ -5,8 +5,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Pyzyryab?label=Pyzyryab&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Pyzyryab?logo=GitHub&style=for-the-badge)
 
-- 📫 If you are a professional IT recruiter or an employer, [here](https://pyzyryab.github.io/) you have my full resume with all necesary details.
-
 - 🔭 I’m currently working on **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
 backend server-side based on REST comms **for a personal project**. You can find it here [LiveBar](https://livebar.app)
 
