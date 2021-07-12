@@ -5,6 +5,10 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Pyzyryab?label=Pyzyryab&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Pyzyryab?logo=GitHub&style=for-the-badge)
 
+
+- 🔭I've already published my first Android App on the playstore, called [Live Musician](https://play.google.com/store/apps/details?id=zerodaycode.live_musician).
+- The source code it's [this](https://github.com/Pyzyryab/LiveMusician).
+
 - 🔭 I’m currently working on **Flutter** integration with **Django Rest API**, in order to get a multi-platform one language front-end with a solid
 backend server-side based on REST comms **for a personal project**. You can find it here [LiveBar](https://livebar.app)
 
